@@ -1,7 +1,8 @@
 package etec.crud.controller
 
+import Instrumento
 import com.ninjasquad.springmockk.MockkBean
-import etec.crud.model.Instrumento
+//import etec.crud.model.Instrumento
 import etec.crud.service.InstrumentoServicio
 import io.mockk.*
 import org.springframework.beans.factory.annotation.Autowired
